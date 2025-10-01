@@ -1,6 +1,7 @@
 # Ignore everything
 *
 
-# Don’t ignore these files
+# Don’t ignore these files/folders
 !.gitignore
-!CDD_ML_Part_1_Acetylcholinesterase_Bioactivity_Data_Concised.ipynb
+!bioinformatics_freecodecamp/
+!bioinformatics_freecodecamp/CDD_ML_Part_1_Acetylcholinesterase_Bioactivity_Data_Concised.ipynb
