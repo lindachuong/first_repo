@@ -1,3 +1,6 @@
+# Ignore everything
 *
-!.gitignore
 
+# Don’t ignore these files
+!.gitignore
+!CDD_ML_Part_1_Acetylcholinesterase_Bioactivity_Data_Concised.ipynb
